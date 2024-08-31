@@ -35,4 +35,4 @@ setInterval(() => {
   console.log(hex);
   circle.style.borderColor = hex;
   hex = "#";
-}, 2000);
+}, 5000);
